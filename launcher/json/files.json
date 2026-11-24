@@ -1,0 +1,69 @@
+[
+  {
+    "name": "launcher",
+    "folder": "launcher",
+    "size": 0,
+    "md5": "3.4.42.0",
+    "sha1": "3.4.42.0"
+  },
+  {
+    "name": "runtimes.json",
+    "folder": "json",
+    "size": 572,
+    "sha1": "630aedd85f922121f33068e1f0b7ee864c67e65a"
+  },
+  {
+    "name": "newnews.json",
+    "folder": "json",
+    "size": 7950,
+    "sha1": "b5cc91928d465e59915b92ca0670a10037f75f70"
+  },
+  {
+    "name": "config.json",
+    "folder": "json",
+    "size": 6014,
+    "sha1": "d995f8843b9f4c63b61f1d26b24deb03e26a19f1"
+  },
+  {
+    "name": "users.json",
+    "folder": "json",
+    "size": 74,
+    "sha1": "e9785cadddb152891aedb0037c6b90bed419be95"
+  },
+  {
+    "name": "version.json",
+    "folder": "json",
+    "size": 112,
+    "sha1": "074b35456de2d923e2b233e94faad5b3cd95862a"
+  },
+  {
+    "name": "minecraft_versions.json",
+    "folder": "json",
+    "size": 311317,
+    "sha1": "baae6976a156ebfcf1cf530edb618cac86e1dd36"
+  },
+  {
+    "name": "files.json",
+    "folder": "json",
+    "size": 1460,
+    "sha1": "4add416249cd9a3d2c3459a96e883643d23905e8",
+  },
+  {
+    "name": "lwjgl.json",
+    "folder": "json",
+    "size": 39187,
+    "sha1": "524e91f2c2524cc1149846d35a2541a3959e89b1"
+  },
+  {
+    "name": "packsnew.json",
+    "folder": "json",
+    "size": 703966,
+    "sha1": "95250bc01aa40b5197e6c00605c7bfa10adae0ee"
+  },
+  {
+    "name": "java_runtimes.json",
+    "folder": "json",
+    "size": 12083,
+    "sha1": "2a09fcac5aaaaa9a106c1a7d6109346f77920fcc"
+  }
+]
